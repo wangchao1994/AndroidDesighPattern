@@ -1,4 +1,4 @@
-package com.example.android.factory;
+package com.example.android.simple_factory;
 
 /**
  * 静态工厂根据传入的类型进行产品的创建

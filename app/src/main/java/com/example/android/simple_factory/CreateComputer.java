@@ -1,4 +1,4 @@
-package com.example.android.factory;
+package com.example.android.simple_factory;
 
 /**
  * 使用户根据参数获得对应的类实例，避免了直接实例化类，降低了耦合性。
